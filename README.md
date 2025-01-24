@@ -1,4 +1,4 @@
-# <i> ChefGPT: Where every ingredient into a masterpiece!!🍳 </i>
+# <i> ChefGPT: Where every ingredient turns into a masterpiece!!🍳 </i>
 ![](/assets/chef.jpg)</br>
 
 
